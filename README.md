@@ -5,7 +5,7 @@ You will find my projects from my two computational physics classes to portray m
 understanding of coding and how my understanding of coding and analytics of the results
 have developed over the years
 
-The order of projects completed goes: Phys 381: Assignments are in numerical order
+The order of projects completed goes: Phys 381: Assignments are in numerical order \n
                                       Phys 481: Assignments are in numerical order
                                       Physics Exercises 
                                       Monte Carlo Exercises
