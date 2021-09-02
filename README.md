@@ -7,8 +7,8 @@ have developed over the years
 
 The order of projects completed goes: Phys 381: Assignments are in numerical order,
                                       Phys 481: Assignments are in numerical order,
-                                      Physics Exercises, 
+                                      Phython Exercises, 
                                       Monte Carlo Exercises and 
                                       Monte Carlo Bootstrapping
 
-The Physics Exercises, Monte Carlo exercises and Monte Carlo bootstrapping projects were completed through my first semester of a Joint Masters program in Nuclear Physics through the Erasmus Mundus Program.
+The projects titled: Phython Exercises, Monte Carlo exercises and Monte Carlo bootstrapping projects were completed through my first semester of a Joint Masters program in Nuclear Physics through the Erasmus Mundus Program.
